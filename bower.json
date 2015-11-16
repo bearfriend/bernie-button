@@ -1,13 +1,25 @@
 {
   "name": "bernie-button",
   "authors": [
-    "Danny Gleckler <daniel.gleckler@gmail.com>"
+    "Danny Gleckler <daniel.gleckler@gmail.com>",
+    "LiberalDog (Ryan Doherty) <rdoh62001@gmail.com>"
   ],
-  "description": "Push the Bernie Button to hear one of Bernie's positions.",
+  "description": "A custom element that plays audio clips of Bernie stating his position on various issues.",
+  "keywords": {
+    "bernie-button",
+    "Bernie",
+    "Sanders",
+    "button",
+    "2016",
+    "custom",
+    "element",
+    "Web",
+    "Components"
+  ],
   "main": "bernie-button.html",
   "moduleType": [],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/LiberalDog/bernie-button",
   "private": true,
   "ignore": [
     "**/.*",
